@@ -30,8 +30,12 @@ body{
 	font-size: 24px;
 }
 
-.spacer{
+.spacer1{
 	padding-top: 4em;
+}
+
+.spacer2{
+	padding-bottom: 2em;
 }
 
 .spacershop{
@@ -54,6 +58,7 @@ body{
 	background-size: cover;
 	color: white;
 	text-shadow: 2px 2px 5px rgba(0,0,0, 0.5);
+
 }
 
 #wrapper h1{
