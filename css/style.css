@@ -1,5 +1,6 @@
 body{
 	background-image: url("../images/grid.jpg");
+	max-height: 650px;
 	font-family: "open sans";
 }
 
@@ -54,7 +55,6 @@ body{
 	padding-top: 150px;
 	background-image: url("../images/background/clouds.jpg");
 	height: auto;
-	max-height: 600px;
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: white;
