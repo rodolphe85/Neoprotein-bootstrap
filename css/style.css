@@ -54,6 +54,7 @@ body{
 	padding-top: 150px;
 	background-image: url("../images/background/clouds.jpg");
 	height: auto;
+	max-height: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: white;
