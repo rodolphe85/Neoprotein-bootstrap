@@ -47,7 +47,7 @@ body{
 #wrapper{
 	padding-top: 150px;
 	background-image: url("../images/background/clouds.jpg");
-	height: 700px;
+	height: 750px;
 	/*background-repeat: no-repeat; */
 	background-size: cover;
 	color: white;
@@ -61,7 +61,7 @@ body{
 
 #wrappershop{
 	padding-top: 50px;
-	height: 700px;
+	height: 750px;
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: black;
@@ -72,7 +72,7 @@ body{
 #wrappercontact{
 	padding-top: 150px;
 	background-image: url("../images/background/clouds.jpg");
-	height: 700px;
+	height: 750px;
 	/*background-repeat: no-repeat; */
 	background-size: cover;
 	color: black;
