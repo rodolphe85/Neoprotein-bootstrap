@@ -38,22 +38,16 @@ body{
 	padding-bottom: 2em;
 }
 
-.spacershop{
-	padding-top: 2em;
-}
+
 
 .spacershopbottom{
 	padding-bottom: 2em;
 }
 
-.espace{
-	padding-top: 2em;
-}
-
 #wrapper{
 	padding-top: 150px;
 	background-image: url("../images/background/clouds.jpg");
-	height: 620px;
+	height: 900px;
 	/*background-repeat: no-repeat; */
 	background-size: cover;
 	color: white;
@@ -68,7 +62,7 @@ body{
 #wrappershop{
 	padding-top: 50px;
 	background-image: url("../images/background/clouds.jpg");
-	height: 620px;
+	height: 900px;
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: white;
@@ -79,7 +73,7 @@ body{
 #wrappercontact{
 	padding-top: 150px;
 	background-image: url("../images/background/clouds.jpg");
-	height: 620px;
+	height: 900px;
 	/*background-repeat: no-repeat; */
 	background-size: cover;
 	color: black;
